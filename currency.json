@@ -1,0 +1,25 @@
+
+     [
+        
+       
+        {
+            "name": "MMK",
+        
+            "price": "300"
+        },
+        {
+            "name": "USD",
+            "symbol":"$",
+            "price": "3"
+        },
+        {
+            "name": "SGD ",
+            
+            "price": "2"
+        },
+        {
+            "name": "INR",
+            
+            "price": "50"
+        }
+    ]
